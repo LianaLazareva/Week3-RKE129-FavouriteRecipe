@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&family=Slabo+27px&display=swap');
+
+body {
+    background-color: rgb(220, 212, 181);
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading {
+    color: rgb(65, 41, 3);
+    font-family: 'Single Day', cursive;
+    font-size: 6rem;
+}
+
+.picture {
+   width: 30%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px
+    
+}
+
+.ingredients {
+    color: rgb(65, 41, 3);
+    border: 1px solid gray;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+}
+
+.ingredients-table {
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+.instructions {
+    color:rgb(65, 41, 3);
+    border: 1px solid gray;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Slabo 27px', serif;
+
+}
+
+.instructions ol {
+    border: 1px solid gray;
+    margin: 0 auto;
+    width: 75%;
+
+}
+
+.footer {
+    color: rgb(48, 28, 9);
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+}
